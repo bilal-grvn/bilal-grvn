@@ -3,7 +3,7 @@
 </div>  
   
 
-##### *I am Bilal from Turkey and am a PhD student at mechatronics engineering.*  
+#### *I am Bilal from Turkey and am a PhD student at mechatronics engineering.*  
   
 
 - 🔭 I have been working on ROS based path planning. I have been realizating my works on Autonomous Mobile Robot (AMR) that mine designed.  
@@ -14,14 +14,9 @@
 
 <br/>  
 
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
-
-### My Skill Set  
-<div align="center">  
+ 
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
@@ -32,16 +27,7 @@
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
 </td></tr></table>  
-
 <br/>  
 
 
