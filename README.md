@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://github.com/bilal-grvn/bilal-grvn/blob/main/img/1.PNG" align="center" style="width: 120%" />
+<img src="img/bilal.PNG" align="center" style="width: 120%" />
 </div>  
-  
+
 
 #### *I am Bilal from Turkey and am a PhD student at mechatronics engineering.*  
   
@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning QtDesigner, MySQL, Python.  
  
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools</h2>
 
 <p align="left"> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
@@ -26,6 +26,36 @@
 </p>
 
 
+<h1 align="left">My Projects</h1>
+
+IP SCANNER: 
+<p align="center">
+    <img width="400" src="img/IP_scan.gif" alt="Material Bread logo">
+</p>
+
+LEVEL STATUS:         
+<p align="center">
+    <img width="400" src="img/level.gif" alt="Material Bread logo">
+</p>
+
+ACTIVE STATUS:         
+<p align="center">
+    <img width="400" src="img/timer_splash.gif" alt="Material Bread logo">
+</p>
+
+THREADING PROCEDURE:      
+<p align="center">
+    <img width="600" src="img/splash_thread.gif" alt="Material Bread logo">
+</p>
+
+TOGGLE BUTTON:      
+<p align="center">
+    <img width="200" src="img/toggle.gif" alt="Material Bread logo">
+</p>
+
+
+
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/bilal-grvn" target="_blank">
@@ -37,6 +67,8 @@
 </div>  
   
 
+
+
 <br/>  
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bilal-grvn&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
@@ -45,12 +77,8 @@
 
 
 ## Recent Blog Posts  
-<br/>  
-<br/>  
-
-
+<br/>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=bilal-grvn&&style=flat-square" align="center" />
 </div>  
-<br/>  
-<br />
+<br/>
