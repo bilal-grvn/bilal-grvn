@@ -73,7 +73,7 @@
 <br/>  
   
 
-<h1 align="left">GRecent Blog Posts  </h1>
+<h1 align="left">Recent Blog Posts  </h1>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=bilal-grvn&&style=flat-square" align="center" />
 </div>  
