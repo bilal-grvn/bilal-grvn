@@ -30,19 +30,19 @@
 <h1 align="left">My Projects</h1>
 
     IP SCANNER: 
-- 🚀 Thanks to [Onur YOZCU](https://github.com/onuryozcu)  :-)
+- 🚀 Thanks [Onur YOZCU](https://github.com/onuryozcu)  😊
 <p align="center">
     <img width="400" src="img/IP_scan.gif" alt="Material Bread logo">
 </p>
 
     LEVEL STATUS:   
-- 🚀 Thanks to [Ramazan GUL](https://github.com/blackepars)  :-)
+- 🚀 Thanks [Ramazan GUL](https://github.com/blackepars)  😊
 <p align="center">
     <img width="400" src="img/level.gif" alt="Material Bread logo">
 </p>
 
     ACTIVE STATUS:  
-- 🚀 Thanks to [Ramazan GUL](https://github.com/blackepars)  :-)
+- 🚀 Thanks [Ramazan GUL](https://github.com/blackepars)  😊
 <p align="center">
     <img width="400" src="img/timer_splash.gif" alt="Material Bread logo">
 </p>
