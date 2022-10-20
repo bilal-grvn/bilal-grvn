@@ -45,7 +45,7 @@ ACTIVE STATUS:
 
 THREADING PROCEDURE:      
 <p align="center">
-    <img width="600" src="img/splash_thread.gif" alt="Material Bread logo">
+    <img width="800" src="img/splash_thread.gif" alt="Material Bread logo">
 </p>
 
 TOGGLE BUTTON:      
