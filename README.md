@@ -7,8 +7,8 @@
   
 - 🧑‍💻 I have been working on ROS based path planning. I have been realizating my works on Autonomous Mobile Robot (AMR) that mine designed.  
 - ⚡️ I’m currently learning QtDesigner, MySQL, Python.
-- 🚀 Thanks to RAMAZAN GUL :-)
-  
+
+
 
 <h1 align="left">Languages and Tools</h1>
 
@@ -30,16 +30,19 @@
 <h1 align="left">My Projects</h1>
 
     IP SCANNER: 
+- 🚀 Thanks to [Onur YOZCU](https://github.com/onuryozcu)  :-)
 <p align="center">
     <img width="400" src="img/IP_scan.gif" alt="Material Bread logo">
 </p>
 
-    LEVEL STATUS:         
+    LEVEL STATUS:   
+- 🚀 Thanks to [Ramazan GUL](https://github.com/blackepars)  :-)
 <p align="center">
     <img width="400" src="img/level.gif" alt="Material Bread logo">
 </p>
 
-    ACTIVE STATUS:         
+    ACTIVE STATUS:  
+- 🚀 Thanks to [Ramazan GUL](https://github.com/blackepars)  :-)
 <p align="center">
     <img width="400" src="img/timer_splash.gif" alt="Material Bread logo">
 </p>
