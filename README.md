@@ -9,9 +9,9 @@
 - 🌱 I’m currently learning QtDesigner, MySQL, Python.  
  
 
-<h2 align="left">Languages and Tools</h2>
+<h1 align="left">Languages and Tools</h1>
 
-<p align="left"> 
+<p align="center"> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -28,56 +28,52 @@
 
 <h1 align="left">My Projects</h1>
 
-IP SCANNER: 
+    IP SCANNER: 
 <p align="center">
     <img width="400" src="img/IP_scan.gif" alt="Material Bread logo">
 </p>
 
-LEVEL STATUS:         
+    LEVEL STATUS:         
 <p align="center">
     <img width="400" src="img/level.gif" alt="Material Bread logo">
 </p>
 
-ACTIVE STATUS:         
+    ACTIVE STATUS:         
 <p align="center">
     <img width="400" src="img/timer_splash.gif" alt="Material Bread logo">
 </p>
 
-THREADING PROCEDURE:      
+    THREADING PROCEDURE:      
 <p align="center">
     <img width="800" src="img/splash_thread.gif" alt="Material Bread logo">
 </p>
 
-TOGGLE BUTTON:      
+    TOGGLE BUTTON:      
 <p align="center">
     <img width="200" src="img/toggle.gif" alt="Material Bread logo">
 </p>
 
 
 
-
-## Connect with me  
+<h1 align="left">Connect with me</h1>
 <div align="center">
-<a href="https://github.com/bilal-grvn" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://github.com/bilal-grvn" target="_blank"> 
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github width="100" height="30"/> 
 </a>
-<a href="https://www.linkedin.com/in/bilal-g%C3%BCrevin-16b54g/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+<a href="https://www.linkedin.com/in/bilal-g%C3%BCrevin-16b54g/" target="_blank"> 
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin width="100" height="30"/> 
+</a>
 </div>  
   
 
 
-
-<br/>  
-## Github Stats  
+<h1 align="left">Github Stats</h1>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bilal-grvn&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilal-grvn&hide_border=true&layout=compact" align="center" /></div>  
 <br/>  
+  
 
-
-## Recent Blog Posts  
-<br/>
+<h1 align="left">GRecent Blog Posts  </h1>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=bilal-grvn&&style=flat-square" align="center" />
 </div>  
