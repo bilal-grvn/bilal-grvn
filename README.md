@@ -5,9 +5,10 @@
 
 #### *I am Bilal from Turkey and am a PhD student at mechatronics engineering.*  
   
-- 🔭 I have been working on ROS based path planning. I have been realizating my works on Autonomous Mobile Robot (AMR) that mine designed.  
-- 🌱 I’m currently learning QtDesigner, MySQL, Python.  
- 
+- 🧑‍💻 I have been working on ROS based path planning. I have been realizating my works on Autonomous Mobile Robot (AMR) that mine designed.  
+- ⚡️ I’m currently learning QtDesigner, MySQL, Python.
+- 🚀 Thanks to RAMAZAN GUL :-)
+  
 
 <h1 align="left">Languages and Tools</h1>
 
