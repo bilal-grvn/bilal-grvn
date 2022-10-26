@@ -41,6 +41,11 @@
     <img width="400" src="img/level.gif" alt="Material Bread logo">
 </p>
 
+    TIMER LED CONTROL:
+<p align="center">
+    <img width="250" src="img/timerLed.gif" alt="Material Bread logo">
+</p>
+
     ACTIVE STATUS:  
 - 🚀 Thanks [Ramazan GUL](https://github.com/blackepars)  😊
 <p align="center">
