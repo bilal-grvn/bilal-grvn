@@ -29,6 +29,12 @@
 
 <h1 align="left">My Projects</h1>
 
+    MENU CHANGE: 
+- 🚀 Thanks [Ramazan GUL](https://github.com/blackepars)  😊
+<p align="center">
+    <img width="600" src="img/menu.gif" alt="Material Bread logo">
+</p>
+
     IP SCANNER: 
 - 🚀 Thanks [Onur YOZCU](https://github.com/onuryozcu)  😊
 <p align="center">
