@@ -30,10 +30,9 @@
 ****************************************************************************************************
 # MY PROJECTS:
 
-## 🚀 MENU CHANGE
-* aaaa
-* aaaa
-* aaaa 
+## 🚀 MENU CONTROL
+* Menuler arası geçişi sağlamak için temel bir çalışma
+* `parentWidget()`, `findChildren()`, `findChild()`, `sender()` gibi yapıların kullanımına dair temel yapılar içerir
 - 🚀 Thanks [Ramazan GUL](https://github.com/blackepars)  😊
 <p align="center">
     <img width="700" src="img/menu.gif" alt="Material Bread logo">
@@ -44,9 +43,6 @@
 ****************************************************************************************************
 
 ## 🚀 IP SCANNER
-* aaaa
-* aaaa
-* aaaa 
 - 🚀 Thanks [Onur YOZCU](https://github.com/onuryozcu)  😊
 <p align="center">
     <img width="400" src="img/IP_scan.gif" alt="Material Bread logo">
@@ -56,10 +52,10 @@
 ****************************************************************************************************
 ****************************************************************************************************
 
-## 🚀 LEVEL STATUS
-* aaaa
-* aaaa
-* aaaa 
+## 🚀 LEVEL STATUS CONTROL & THREAD
+* İki farklı `thread` bulunmaktadır
+* `start` ve `stop` butonları ile threadler başlatılıyor.
+* farklı thread ler farklı hızlarda kontrol edilbilmektedir
 <p align="center">
     <img width="400" src="img/level.gif" alt="Material Bread logo">
 </p>
@@ -69,9 +65,8 @@
 ****************************************************************************************************
 
 ## 🚀 TIMER LED CONTROL
-* aaaa
-* aaaa
-* aaaa 
+* `time` kütüphanesini kullanarak `timer kurma`, `timer başlatma` ve `timer durdurma` çalışmasını içerir
+* ekrandan girilen timer süresine göre ledler kontrol edilmekte
 <p align="center">
     <img width="250" src="img/timerLed.gif" alt="Material Bread logo">
 </p>
@@ -80,10 +75,9 @@
 ****************************************************************************************************
 ****************************************************************************************************
 
-## 🚀 TIMER & STATUS
-* aaaa
-* aaaa
-* aaaa 
+## 🚀 STATUS ANIMATION
+* `time` kütüphanesini kullanarak `timer kurma`, `timer başlatma` ve `timer durdurma` çalışmasını içerir
+* belirlenen timer süresinde oluşturulan animasyon sayesinde sistemin aktifliği takip edilebilmekte
 <p align="center">
     <img width="400" src="img/timer_splash.gif" alt="Material Bread logo">
 </p>
@@ -93,9 +87,8 @@
 ****************************************************************************************************
 
 ## 🚀 THREADING PROCEDURE
-* aaaa
-* aaaa
-* aaaa 
+* `QThread` kütüphanesini kullanarak `class ThreadClass(QtCore.QThread):` isminde bir thread class oluşturuldu
+* Class içerisinde `signal` oluşturma ve `emit` etme özelliğini içerir
 <p align="center">
     <img width="800" src="img/splash_thread.gif" alt="Material Bread logo">
 </p>
@@ -104,7 +97,7 @@
 ****************************************************************************************************
 ****************************************************************************************************
 
-## 🚀 TOGGLE BUTON
+## 🚀 TOGGLE BUTTON
 * `self.findChildren` ve `self.findChild` hakkında genel bir kod yapısı örneği içerir
 * sol tarafdaki 4 adet buton ile klasik bir toggle çalışması yapılmıştır
 * sağ tarafdaki 3 adet buton ile toggle buton sayesinde bulunduğu yerdeki bir üst widget renklendirilerek kontrol edilmiştir
