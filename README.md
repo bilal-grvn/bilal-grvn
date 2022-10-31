@@ -11,7 +11,6 @@
 
 
 <h1 align="left">Languages and Tools</h1>
-
 <p align="center"> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -26,46 +25,92 @@
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 </p>
 
+****************************************************************************************************
+****************************************************************************************************
+****************************************************************************************************
+# MY PROJECTS:
 
-<h1 align="left">My Projects</h1>
-
-    MENU CHANGE: 
+## 🚀 MENU CHANGE
+* aaaa
+* aaaa
+* aaaa 
 - 🚀 Thanks [Ramazan GUL](https://github.com/blackepars)  😊
 <p align="center">
-    <img width="600" src="img/menu.gif" alt="Material Bread logo">
+    <img width="700" src="img/menu.gif" alt="Material Bread logo">
 </p>
 
-    IP SCANNER: 
+****************************************************************************************************
+****************************************************************************************************
+****************************************************************************************************
+
+## 🚀 IP SCANNER
+* aaaa
+* aaaa
+* aaaa 
 - 🚀 Thanks [Onur YOZCU](https://github.com/onuryozcu)  😊
 <p align="center">
     <img width="400" src="img/IP_scan.gif" alt="Material Bread logo">
 </p>
 
-    LEVEL STATUS:   
-- 🚀 Thanks [Ramazan GUL](https://github.com/blackepars)  😊
+****************************************************************************************************
+****************************************************************************************************
+****************************************************************************************************
+
+## 🚀 LEVEL STATUS
+* aaaa
+* aaaa
+* aaaa 
 <p align="center">
     <img width="400" src="img/level.gif" alt="Material Bread logo">
 </p>
 
-    TIMER LED CONTROL:
+****************************************************************************************************
+****************************************************************************************************
+****************************************************************************************************
+
+## 🚀 TIMER LED CONTROL
+* aaaa
+* aaaa
+* aaaa 
 <p align="center">
     <img width="250" src="img/timerLed.gif" alt="Material Bread logo">
 </p>
 
-    ACTIVE STATUS:  
-- 🚀 Thanks [Ramazan GUL](https://github.com/blackepars)  😊
+****************************************************************************************************
+****************************************************************************************************
+****************************************************************************************************
+
+## 🚀 TIMER & STATUS
+* aaaa
+* aaaa
+* aaaa 
 <p align="center">
     <img width="400" src="img/timer_splash.gif" alt="Material Bread logo">
 </p>
 
-    THREADING PROCEDURE:      
+****************************************************************************************************
+****************************************************************************************************
+****************************************************************************************************
+
+## 🚀 THREADING PROCEDURE
+* aaaa
+* aaaa
+* aaaa 
 <p align="center">
     <img width="800" src="img/splash_thread.gif" alt="Material Bread logo">
 </p>
 
-    TOGGLE BUTTON:      
+****************************************************************************************************
+****************************************************************************************************
+****************************************************************************************************
+
+## 🚀 TOGGLE BUTON
+* `self.findChildren` ve `self.findChild` hakkında genel bir kod yapısı örneği içerir
+* sol tarafdaki 4 adet buton ile klasik bir toggle çalışması yapılmıştır
+* sağ tarafdaki 3 adet buton ile toggle buton sayesinde bulunduğu yerdeki bir üst widget renklendirilerek kontrol edilmiştir
+* sol tarafta görülen komut satırında da, obje isimleri tespit edilerek alt alta yazdırılmıştır. 
 <p align="center">
-    <img width="200" src="img/toggle.gif" alt="Material Bread logo">
+    <img width="500" src="img/toggle.gif" alt="Material Bread logo">
 </p>
 
 
