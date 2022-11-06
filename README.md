@@ -112,12 +112,19 @@
 
 <h1 align="left">Connect with me</h1>
 <div align="center">
+
 <a href="https://github.com/bilal-grvn" target="_blank"> 
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github width="100" height="30"/> 
 </a>
+
 <a href="https://www.linkedin.com/in/bilal-g%C3%BCrevin-16b54g/" target="_blank"> 
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin width="100" height="30"/> 
 </a>
+
+<a href="https://whttps://scholar.google.com/citations?user=qJX2yFwAAAAJ&hl=tr" target="_blank"> 
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin width="100" height="30"/> 
+</a>
+
 </div>  
   
 
