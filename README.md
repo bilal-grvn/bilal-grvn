@@ -32,7 +32,7 @@
 
 ## 🚀 Gazebo 
 <p align="center">
-    <img width="600" src="img/optimum_prime.png" alt="Material Bread logo">
+    <img width="700" src="img/optimum_prime.png" alt="Material Bread logo">
 </p>
 
 ****************************************************************************************************
@@ -41,7 +41,7 @@
 
 ## 🚀 Gmapping 
 <p align="center">
-    <img width="900" src="img/gmapping.gif" alt="Material Bread logo">
+    <img width="700" src="img/gmapping.gif" alt="Material Bread logo">
 </p>
 
 ****************************************************************************************************
@@ -50,7 +50,7 @@
 
 ## 🚀 Path Planning 
 <p align="center">
-    <img width="900" src="img/pathplanning.gif" alt="Material Bread logo">
+    <img width="700" src="img/pathplanning.gif" alt="Material Bread logo">
 </p>
 
 ## 🚀 MENU CONTROL
