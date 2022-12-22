@@ -32,7 +32,7 @@
 
 ## 🚀 Gazebo 
 <p align="center">
-    <img width="700" src="img/optimum_prime.png" alt="Material Bread logo">
+    <img width="500" src="img/optimum_prime.png" alt="Material Bread logo">
 </p>
 
 ****************************************************************************************************
