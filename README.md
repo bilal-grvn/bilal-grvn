@@ -30,7 +30,7 @@
 ****************************************************************************************************
 # MY PROJECTS:
 
-## 🚀 Gazebo 
+## 🚀 My AMR Platform 
 <p align="center">
     <img width="500" src="img/my_amr_platform.gif" alt="Material Bread logo">
 </p>
