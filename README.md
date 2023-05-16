@@ -179,7 +179,8 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bilal-grvn&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilal-grvn&hide_border=true&layout=compact" align="center" /></div>  
 <br/>  
-  
+
+
 
 <h1 align="left">Recent Blog Posts  </h1>
 <div align="center">
