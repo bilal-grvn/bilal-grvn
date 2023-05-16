@@ -4,9 +4,9 @@
 
 
 #### *I am Bilal from Turkey and am a PhD student at mechatronics engineering.*  
-  
+- 👨‍🏫 I am a visiting researcher at Liverpool John Moores University
 - 🧑‍💻 I have been working on ROS based path planning. I have been realizating my works on Autonomous Mobile Robot (AMR) that mine designed.  
-- ⚡️ I’m currently learning ROS, Python, QtDesigner, MySQL.
+- ⚡️ I have been learning ROS, Python, Qt Designer, MySQL, SqLite, React Native.
 
 
 
