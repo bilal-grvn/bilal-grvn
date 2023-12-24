@@ -100,7 +100,7 @@
 
 ## 🚀 ZED2 Stereo Cam
 <p align="center">
-    <img width="700" src="img/stereo_me.gif" alt="Material Bread logo">
+    <img width="700" src="img/stereo.gif" alt="Material Bread logo">
 </p>
 
 ****************************************************************************************************
