@@ -8,6 +8,15 @@
 - 🧑‍💻 In my doctoral thesis, I worked on path planning algorithms of mobile robots. I used PSO and chaotic systems in the path planning algorithm.
 - ⚡️ I am currently improving myself in the fields of image processing, artificial intelligence and ROS.
 
+****************************************************************************************************
+****************************************************************************************************
+****************************************************************************************************
+# MY PROJECTS:
+
+## 🚀 Traffic Control with YOLOv8
+<p align="center">
+    <img width="600" src="img/counter.gif" alt="Material Bread logo">
+</p>
 
 ****************************************************************************************************
 ****************************************************************************************************
