@@ -15,7 +15,7 @@
 
 ## 🚀 Object Distance Measuring Based DepthCam
 <p align="center">
-    <img width="800" src="img/direction_disatance.gif" alt="Material Bread logo">
+    <img width="600" src="img/direction_disatance.gif" alt="Material Bread logo">
 </p>
 
 ****************************************************************************************************
