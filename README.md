@@ -13,7 +13,7 @@
 ****************************************************************************************************
 # MY PROJECTS:
 
-## 🚀 Object Distance Measuring Based DepthCam
+## 🚀 Object Distance/Direction/Class Detection Based DepthCam
 <p align="center">
     <img width="600" src="img/direction_disatance.gif" alt="Material Bread logo">
 </p>
